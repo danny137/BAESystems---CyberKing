@@ -37,3 +37,6 @@ node js/main.js
 ```
 
 After setting up, simply speak to the genie and collect an item!
+
+
+I have also updated the javascript to provide other exploits to manipulate the collecable size and position, player size and speed, challenge timeout and also modified the post request wihin the javascript to always post the correct answer to the api endpoint (Much like main.js but without interception).
